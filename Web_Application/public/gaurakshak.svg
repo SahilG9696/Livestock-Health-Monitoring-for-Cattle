@@ -1,0 +1,23 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="48" fill="white"/>
+  <path d="M96 316C130 286 170 270 221 266C253 264 284 269 313 281C335 290 355 304 372 322" stroke="#2F8F2B" stroke-width="18" stroke-linecap="round"/>
+  <path d="M80 210C88 169 118 138 160 132C190 128 220 140 239 164C251 179 257 197 257 219" stroke="#1F1F1F" stroke-width="18" stroke-linecap="round"/>
+  <path d="M133 154L116 138" stroke="#1F1F1F" stroke-width="14" stroke-linecap="round"/>
+  <path d="M215 154L232 138" stroke="#1F1F1F" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="144" cy="214" r="8" fill="#1F1F1F"/>
+  <path d="M188 216C180 222 170 225 160 225" stroke="#1F1F1F" stroke-width="10" stroke-linecap="round"/>
+  <path d="M272 260L292 204L314 278L336 172L358 292L380 238L404 260" stroke="#2F8F2B" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="316" y="118" width="16" height="70" rx="8" fill="#1F1F1F"/>
+  <path d="M324 102C342 112 354 129 359 149" stroke="#1F1F1F" stroke-width="8" stroke-linecap="round"/>
+  <path d="M324 92C348 104 364 126 370 152" stroke="#1F1F1F" stroke-width="8" stroke-linecap="round"/>
+  <path d="M108 100C123 90 143 87 161 93" stroke="#72B53B" stroke-width="8" stroke-linecap="round"/>
+  <path d="M102 82C122 70 148 65 172 73" stroke="#72B53B" stroke-width="8" stroke-linecap="round"/>
+  <rect x="392" y="202" width="28" height="78" rx="8" fill="#72B53B"/>
+  <rect x="426" y="170" width="28" height="110" rx="8" fill="#72B53B"/>
+  <rect x="460" y="138" width="28" height="142" rx="8" fill="#0F62A5"/>
+  <path d="M406 306C432 286 458 276 492 274" stroke="#0F62A5" stroke-width="10" stroke-linecap="round"/>
+  <path d="M189 374H322" stroke="#2F8F2B" stroke-width="12" stroke-linecap="round"/>
+  <path d="M322 374H418" stroke="#0F62A5" stroke-width="12" stroke-linecap="round"/>
+  <text x="58" y="432" fill="#2F8F2B" font-family="Segoe UI, Arial, sans-serif" font-size="74" font-style="italic" font-weight="700">Gaura</text>
+  <text x="260" y="432" fill="#0F62A5" font-family="Segoe UI, Arial, sans-serif" font-size="74" font-style="italic" font-weight="700">kshak</text>
+</svg>

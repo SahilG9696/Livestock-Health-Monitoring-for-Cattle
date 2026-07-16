@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.idea/
+
+# Firebase
+firebase_key.json
+
+# Dataset
+CowSoundDataset_2class/
+features/
+
+# Models (optional)
+*.h5
+*.keras
+*.pkl
+
+# Node
+node_modules/
+dist/
